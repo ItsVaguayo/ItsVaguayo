@@ -2,7 +2,7 @@
 
 
 <p><em>
-🎓 Student at <a href="https://42barcelona.com/">42 Barcelona</a> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+🎓 Student at <a href="https://42barcelona.com/">42 Barcelona</a> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"><br>
 🖥️ Systems and Network Technician<br>
 📱 Currently studying Higher Vocational Training in Multi-Platform Application Development<br>
 🎂 Age: 18
