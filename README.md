@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi, I'm Víctor Aguayo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>
 🎓 Student at <a href="https://42barcelona.com/">42 Barcelona</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
@@ -27,16 +26,5 @@
 ## 📫 Contact Me
 
 - 💌 Email: [victoraguayo.alcazar@gmail.com](mailto:victoraguayo.alcazar@gmail.com)  
-
----
-
-## ⚡ About Me
-
-- 😺 Cat lover — my cat Peki is my coding companion.  
-- 🎮 Gamer and indie game developer.  
-- 🏋️‍♂️ Enjoy combining the gym with programming.  
-- 💡 Always learning new technologies and taking on challenges.  
-
----
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsVaguayo&show_icons=true&theme=tokyonight&count_private=true)
