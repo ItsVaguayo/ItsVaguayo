@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Víctor Aguayo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
+## 📖 **About me**  
 <div align="left">
   <p>🎓 Student at <a href="https://42barcelona.com/">42 Barcelona</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <p>🖥️ Systems and Network Technician <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></p>
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Currently Studying
+## 🛠️ Skills & Currently Studying
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
