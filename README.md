@@ -31,5 +31,3 @@
 ## 📫 Contact Me
 
 - 💌 Email: [victoraguayo.alcazar@gmail.com](mailto:victoraguayo.alcazar@gmail.com)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsVaguayo&show_icons=true&theme=tokyonight&count_private=true)
