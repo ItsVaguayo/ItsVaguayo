@@ -1,4 +1,7 @@
 <h1 align="center"><b>Hi, I'm Víctor Aguayo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <img align="center" 
+                    src="https://komarev.com/ghpvc/?username=Itsvaguayo&label=Profile%20views&color=005700&style=flat" 
+                    alt="Itsvaguayo" />
 
 ## 📖 **About me**  
 <div align="left">
