@@ -5,6 +5,8 @@
                      <img align="center" 
                     src="https://img.shields.io/github/stars/Itsvaguayo?style=social">
             </a>
+ ![Views](https://komarev.com/ghpvc/?username=Itsvaguayo&label=Profile%20views&color=007ACC&style=flat)
+ ![Stars](https://img.shields.io/github/stars/Itsvaguayo?style=social)
 
 ## 📖 **About me** 
 <div align="left">
