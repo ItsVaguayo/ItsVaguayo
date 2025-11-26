@@ -2,8 +2,7 @@
  <img align="center" 
                     src="https://komarev.com/ghpvc/?username=Itsvaguayo&label=Profile%20views&color=007ACC&style=flat" 
                     alt="Itsvaguayo" />
-  <a href="#">
-                <img align="center" 
+                     <img align="center" 
                     src="https://img.shields.io/github/stars/Itsvaguayo?style=social">
             </a>
 
