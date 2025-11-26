@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Víctor Aguayo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Itsvaguayo&label=Profile%20views&color=007ACC&style=flat" alt="Itsvaguayo" /><img src="https://img.shields.io/github/stars/Itsvaguayo?style=social">
+    <img src="https://komarev.com/ghpvc/?username=Itsvaguayo&label=Profile%20views&color=007ACC&style=flat" alt="Itsvaguayo" /> <img src="https://img.shields.io/github/stars/Itsvaguayo?style=social">
 </p>
 
 ## 📖 **About me** 
